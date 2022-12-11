@@ -13,7 +13,8 @@ Respostas do teste
 
 5) Alternativa c
     * Teste de mesa
-![img_2.png](img_2.png)
+
+   ![img_2.png](img_2.png)
 
 6) Alternativa d
 
